@@ -1,8 +1,8 @@
 {
     "name" :"Fayvit PWA exaample",
     "short_name" :"Fayvit PWA exaample",
-    "start_url" :"http://localhost",
-    "backgrouund_color" : "#644606;",
+    "start_url" :"",
+    "backgrouund_color" : "#644606",
     "display" : "standalone",
     "icons" : [
             {
