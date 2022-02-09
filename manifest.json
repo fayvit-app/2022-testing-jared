@@ -15,5 +15,11 @@
                 "sizes": "512x512",
                 "type": "image/png"
             }
-    ]
+    ],
+    "fav-maps" : [
+        {
+            "src": "src/snippet.html",
+            "type": "html"
+        }
+    ]   
 }
