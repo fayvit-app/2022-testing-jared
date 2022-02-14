@@ -7,6 +7,15 @@ body {
     margin: 50px 0;
 }
 
+head {
+    display: contents;
+}
+link {
+    display: contents;
+}
+meta {
+    display: contents;
+}
 
 .influ-name {
     font-weight: 400;
