@@ -2,7 +2,7 @@
     "name" :"Fayvit PWA exaample",
     "short_name" :"Fayvit PWA exaample",
     "start_url" :"",
-    "backgrouund_color" : "#644606",
+    "backgrouund_color" : "#eeeeee",
     "display" : "standalone",
     "icons" : [
             {
@@ -15,5 +15,11 @@
                 "sizes": "512x512",
                 "type": "image/png"
             }
-    ]
+    ],
+    "fav-maps" : [
+        {
+            "src": "src/snippet.html",
+            "type": "html"
+        }
+    ]   
 }
