@@ -7,3 +7,9 @@ if ("serviceWorker" in navigator) {
     })
 
 }
+
+
+
+$(function(){
+    on.click(".link-to-fav-profi").then(console.log("working link"))
+}); 
