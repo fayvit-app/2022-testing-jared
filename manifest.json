@@ -1,25 +1,20 @@
 {
     "name" :"Fayvit PWA exaample",
     "short_name" :"Fayvit PWA exaample",
-    "start_url" :"",
+    "start_url" :"https://fayvit-app.github.io/2022-testing-jared/",
     "backgrouund_color" : "#eeeeee",
+    "theme_color": "#eeeeee",
     "display" : "standalone",
     "icons" : [
-            {
-                "src": "imageslogo192.png",
-                "sizes": "193x192",
-                "type": "image/png"
-            },
-            {
-                "src": "imageslogo192.png",
-                "sizes": "512x512",
-                "type": "image/png"
-            }
-    ],
-    "fav-maps" : [
         {
-            "src": "src/snippet.html",
-            "type": "html"
+            "src": "imageslogo192.png",
+            "sizes": "193x192",
+            "type": "image/png"
+        },
+        {
+            "src": "imageslogo192.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
-    ]   
+    ]
 }
