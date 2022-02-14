@@ -1,7 +1,7 @@
 {
     "name" :"Fayvit PWA exaample",
     "short_name" :"Fayvit PWA exaample",
-    "start_url" :"",
+    "start_url" :"https://fayvit-app.github.io/2022Fayvit/",
     "backgrouund_color" : "#eeeeee",
     "display" : "standalone",
     "icons" : [
