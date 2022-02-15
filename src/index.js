@@ -8,8 +8,8 @@ if ("serviceWorker" in navigator) {
 
 }
 
-
-
-$(function(){
-    on.click(".link-to-fav-profi").then(console.log("working link"))
-}); 
+var clickMe = document.querySelector('.link-to-fav-profi');
+document.addEventListener('click', function (event) {
+	if (!event.target.closest('.link-to-fav-profi')) return;
+    console.log("working click to link")
+});
