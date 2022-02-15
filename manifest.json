@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name" :"Fayvit PWA exaample",
     "short_name" :"Fayvit PWA exaample",
     "start_url" :"https://fayvit-app.github.io/2022Fayvit/",
@@ -17,9 +18,24 @@
             }
     ],
     "fav-maps" : [
+=======
+    "name": "PWA exaample",
+    "short_name": "PWA exaample",
+    "start_url": ".",
+    "background_color": "#eeeeee",
+    "theme_color": "#eeeeee",
+    "display": "standalone",
+    "icons": [
+>>>>>>> 85f1f4ef044e46847352f65eb919bfa32adbab9f
         {
-            "src": "src/snippet.html",
-            "type": "html"
+            "src": "images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo192.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
-    ]   
+    ]
 }
