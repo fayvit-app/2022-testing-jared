@@ -1,5 +1,6 @@
 {
     "name": "PWA exaample",
+    "id": "/2022-testing-jared/",
     "short_name": "PWA exaample",
     "start_url": ".",
     "background_color": "#ff9e8e",
